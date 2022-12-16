@@ -9,5 +9,6 @@ The File: Band_Name_Gen.py is a small program that will create a band name throu
 
 Day 2
 The File: DataTypes.py demonstrates the conversion of different data types
-The File: BMIcalc.py was a simple exercise to display basic mathmatical functionaklity in python
+The File: BMIcalc.py was a simple exercise to display basic mathmatical functionality in python
 The File: LifeInWeeks.py is a program that demostrates the use of fstrings in pthon
+The File: TipCalculator.py is a program that incorporates all skills learned in day 2.
