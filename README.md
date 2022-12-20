@@ -12,3 +12,6 @@ The File: DataTypes.py demonstrates the conversion of different data types
 The File: BMIcalc.py was a simple exercise to display basic mathmatical functionality in python
 The File: LifeInWeeks.py is a program that demostrates the use of fstrings in pthon
 The File: TipCalculator.py is a program that incorporates all skills learned in day 2
+
+Day 3
+The File: Odd&Even.py demonstrates conditional statements using if/else
