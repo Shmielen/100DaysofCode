@@ -15,3 +15,4 @@ The File: TipCalculator.py is a program that incorporates all skills learned in 
 
 Day 3
 The File: Odd&Even.py demonstrates conditional statements using if/else
+The File: BMI_2.py demonstrates the use of elif in python
