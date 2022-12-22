@@ -24,3 +24,5 @@ The File: TreasureIsland.py is a project that demonstrates concepts ive learnt i
 Day 4
 The File: HeadsorTails.py demostrates the random module in python
 The File: BankerRoulette.py demonstates the use of lists in python
+The File: TreasureMap.py demonstartes the use of nested lists in python
+The File: RockPaperScissors.py demonstartes the concepts ive learnt on day 4
