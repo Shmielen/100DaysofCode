@@ -30,3 +30,4 @@ The File: RockPaperScissors.py demonstartes the concepts ive learnt on day 4
 Day 5
 The File: AverageHeight.py demonstrates the use of for loops in python
 The File: HighScore.py is another example of the for loop
+The File: AddEvenNum.py demonstartes the use of the range() function in python for loops
