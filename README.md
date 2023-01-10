@@ -26,3 +26,6 @@ The File: HeadsorTails.py demostrates the random module in python
 The File: BankerRoulette.py demonstates the use of lists in python
 The File: TreasureMap.py demonstartes the use of nested lists in python
 The File: RockPaperScissors.py demonstartes the concepts ive learnt on day 4
+
+Day 5
+The File: AverageHeight.py demonstrates the use of for loops in python
