@@ -33,3 +33,8 @@ The File: HighScore.py is another example of the for loop
 The File: AddEvenNum.py demonstartes the use of the range() function in python for loops
 The File: FizzBuzz.py common interview question that demonstartes knowledge of for loops
 The File: PasswordGne.py demonstrates the concepts learnt on day 5 along with the random.choice() and random.shuffle()
+
+Day 6
+All work was done on the website Reeborg.ca
+
+Day 7
