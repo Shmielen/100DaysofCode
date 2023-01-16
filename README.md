@@ -3,7 +3,7 @@ This is the repo for my 100 days of code python challenge.
 
 Day 1
 The File: main.py was created to demonstrate the print function in python.
-The File: debygBROKEN.py was downloaded and i will fix it and uplaod the correct version
+The File: debugBROKEN.py was downloaded and i will fix it and uplaod the correct version
 The File: debugFIXED.py was uploaded and is a debugged version of debugBROKEN.py
 The File: Band_Name_Gen.py is a small program that will create a band name through concatination 
 
@@ -42,3 +42,5 @@ The Files: Hangman.py, hangman_ar.py and hangman_words.py contains all files req
 
 Day 8
 The File: PaintArea.py demonstrates t5he use of multiple parameters for functions in python
+The File: Caesar.py demonstrates a caesar cypher encryption program
+The File: art.py contains the art module for Caesar.py
