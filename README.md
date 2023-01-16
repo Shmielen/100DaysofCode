@@ -39,3 +39,6 @@ All work was done on the website Reeborg.ca
 
 Day 7
 The Files: Hangman.py, hangman_ar.py and hangman_words.py contains all files required to run the Hangman challenge
+
+Day 8
+The File: PaintArea.py demonstrates t5he use of multiple parameters for functions in python
