@@ -38,4 +38,4 @@ Day 6
 All work was done on the website Reeborg.ca
 
 Day 7
-The File: Hangman.zip contains all files required to run the Hangman challenge
+The Files: Hangman.py, hangman_ar.py and hangman_words.py contains all files required to run the Hangman challenge
