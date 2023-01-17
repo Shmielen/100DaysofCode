@@ -44,3 +44,6 @@ Day 8
 The File: PaintArea.py demonstrates t5he use of multiple parameters for functions in python
 The File: Caesar.py demonstrates a caesar cypher encryption program
 The File: art.py contains the art module for Caesar.py
+
+Day 9
+The File: GradingProgram.py demonstartes the use of dictionaries in python
