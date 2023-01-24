@@ -53,3 +53,6 @@ The Files: SecretAuction.py and artSA.py demostrate some things ive learnt in da
 Day 10
 The File: DaysInMonth.py demonstartes the use of outputs in functions 
 The File: Calculator.py and Calcart.py demonstrates the use of dictionaries flags and while loops, as well as output functions
+
+Day 11
+The Files: BlackJack.py and BJart.py demonstrate most of the concepts learnt in the first 10 days of the channel
