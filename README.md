@@ -56,3 +56,6 @@ The File: Calculator.py and Calcart.py demonstrates the use of dictionaries flag
 
 Day 11
 The Files: BlackJack.py and BJart.py demonstrate most of the concepts learnt in the first 10 days of the channel
+
+Day 12
+The Files: NumberGuesser.py and NGart.py is a game where users guess a number between 1 and 100
