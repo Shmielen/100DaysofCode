@@ -1,5 +1,5 @@
 # 100DaysofCode
-This is the repo for my 100 days of code python challenge. 
+## This is the repo for my 100 days of code python challenge. 
 
 Day 1
 The File: main.py was created to demonstrate the print function in python.
@@ -59,3 +59,4 @@ The Files: BlackJack.py and BJart.py demonstrate most of the concepts learnt in 
 
 Day 12
 The Files: NumberGuesser.py and NGart.py is a game where users guess a number between 1 and 100
+The File: NumberGuessOptimized has been uploaded, it contains neater code
