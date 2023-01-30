@@ -66,3 +66,6 @@ There were no files uploaded thos day as it was mostly spent debugging code
 
 Day 14
 The File: higher-lower.zip contains all files neccessary to run higher or lower game
+
+Day 15
+The Files: CoffeMachine.py and Coffeedata.py demonstrate python programs made with the PyCharm IDE
