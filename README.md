@@ -63,3 +63,6 @@ The File: NumberGuessOptimized has been uploaded, it contains neater code
 
 Day 13
 There were no files uploaded thos day as it was mostly spent debugging code
+
+Day 14
+The File: higher-lower.zip contains all files neccessary to run higher or lower game
