@@ -69,3 +69,6 @@ The File: higher-lower.zip contains all files neccessary to run higher or lower 
 
 Day 15
 The Files: CoffeMachine.py and Coffeedata.py demonstrate python programs made with the PyCharm IDE
+
+Day 16
+The File: CoffeeMachineOOP.zip contains all the files created to make an Object Orientated program
