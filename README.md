@@ -72,3 +72,6 @@ The Files: CoffeMachine.py and Coffeedata.py demonstrate python programs made wi
 
 Day 16
 The File: CoffeeMachineOOP.zip contains all the files created to make an Object Orientated program
+
+Day 17
+The File: Quiz_Game.zip contains all files to run quiz_game, an OOP project that lets users play a true or false game
