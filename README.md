@@ -75,3 +75,6 @@ The File: CoffeeMachineOOP.zip contains all the files created to make an Object 
 
 Day 17
 The File: Quiz_Game.zip contains all files to run quiz_game, an OOP project that lets users play a true or false game
+
+Day 18
+The File: Turtle_Challenges.zip contains all the files that demostrate the use of the Turtle Module in python
