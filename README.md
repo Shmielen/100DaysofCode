@@ -1,7 +1,7 @@
 # 100DaysofCode
 ## This is the repo for my 100 days of code python challenge. 
 
-Day 1\n
+Day 1
 The File: main.py was created to demonstrate the print function in python.\n
 The File: debugBROKEN.py was downloaded and i will fix it and uplaod the correct version\n
 The File: debugFIXED.py was uploaded and is a debugged version of debugBROKEN.py\n
@@ -78,3 +78,4 @@ The File: Quiz_Game.zip contains all files to run quiz_game, an OOP project that
 
 Day 18
 The File: Turtle_Challenges.zip contains all the files that demostrate the use of the Turtle Module in python
+The File: HirstPainting.zip contains all the necessary files to run the HirstPainting program using the Turtle package and the colorgram package
